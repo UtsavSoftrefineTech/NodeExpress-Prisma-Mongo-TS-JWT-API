@@ -37,7 +37,7 @@ We aim to create a reliable and scalable API to serve as the backend for our Cha
 
 ## Project Links
 
-- **Deployed API Link:** [NodeExpress-Prisma-TS-JWT-API](https://nodeexpress-prisma-mongo-ts-jwt-api.onrender.com/)
+- **Deployed API Link:** [NodeExpress-Prisma-Mongo-TS-JWT-API](https://nodeexpress-prisma-mongo-ts-jwt-api.onrender.com/)
 - **Postman Collection:** [Postman Collection](https://api.postman.com/collections/31802824-039fb4fe-b123-4e90-a7b2-6791be3948b2?access_key=PMAT-01HKCHWNYMXY8338Q3WA2FHZWP)
 
 *Note: The Postman collection provides detailed requests for user, product, update, and update point. Make sure to sign in before accessing protected routes.*
